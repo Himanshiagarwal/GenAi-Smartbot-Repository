@@ -1,0 +1,4 @@
+langchain
+pinecone-client==2.2.4
+pypdf
+google-generativeai
